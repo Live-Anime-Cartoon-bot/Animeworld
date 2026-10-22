@@ -1,0 +1,17 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "nCxTw4ENw0AaUp40mtn7S"
+uri = "file://.local/conversation-workspace/files/jugnu-tv-updated.zip"
+type = "unspecified"
+title = "JUGNU TV deployment ZIP (InfinityFree)"
+description = "Latest site files, including optional ShrinkMe share-link creation. Uses form-encoded same-origin requests for InfinityFree compatibility. Configure the API key server-side after upload; playback remains ungated."
+logical_id = "d2503198-d2f5-43c9-8ed6-2e819c099662"
+content_hash = "sha256:abe7f71fd08d931b1e564c8948836553df9ab74727944457ae7b45759713d347"
+size = 2838605
+mtime_ms = 1792645982900
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:d56ccbaa-e87d-46d1-a5b4-0243b86392e0/d2503198-d2f5-43c9-8ed6-2e819c099662/53d472e1-c559-45b9-b107-05808abf677f"
+storage_version_token = "1792645992712522"
+content_type = "application/octet-stream"
+source_uri = "file://jugnu-tv-updated.zip"
